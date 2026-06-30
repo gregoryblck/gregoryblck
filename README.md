@@ -32,14 +32,6 @@ Me chamo Gregory Silva, tenho 26 anos e sou natural da Bahia. Sou formado em AnÃ
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
     alt="React"
     title="React" 
     width="30px" 
@@ -48,12 +40,20 @@ Me chamo Gregory Silva, tenho 26 anos e sou natural da Bahia. Sou formado em AnÃ
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="Bootstrap"
+    title="Bootstrap" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
 />
+<img 
+    align="left" 
+    alt="React Router" 
+    title="React Router"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg"
+/> 
 <img 
     align="left" 
     alt="Git" 
@@ -69,7 +69,7 @@ Me chamo Gregory Silva, tenho 26 anos e sou natural da Bahia. Sou formado em AnÃ
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
+/>        
 <img 
     align="left" 
     alt="PostgreSQL" 
@@ -80,19 +80,19 @@ Me chamo Gregory Silva, tenho 26 anos e sou natural da Bahia. Sou formado em AnÃ
 />
 <img 
     align="left" 
-    alt="SQL" 
-    title="SQL"
+    alt="Postman" 
+    title="Postman"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
 />
 <img 
     align="left" 
-    alt="MySQL" 
-    title="MySQL"
+    alt="Docker" 
+    title="Docker"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
 <br/>
 <br/>
