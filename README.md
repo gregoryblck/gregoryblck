@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Gregory Silva
+# 👨🏽‍💻 Gregory Silva
 
 **`Desenvolvedor Front-End`**
 
